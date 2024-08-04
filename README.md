@@ -8,10 +8,10 @@ A new Flutter project.
   <h3>
     Thhs netflix clone app displays some of netflix features
     <br>
-    1)Displaying data.
-    2)display movie or series details.
-    2)Search for specific movies or series.
-    3)Hot and new shows.
+    1)Displaying data.<br>
+    2)display movie or series details.<br>
+    2)Search for specific movies or series.<br>
+    3)Hot and new shows.<br>
   </h3>
 </div>
 
