@@ -14,6 +14,10 @@ A new Flutter project.
     3)Hot and new shows.
   </h3>
 </div>
+![Android Emulator - Phone_5554 05_08_2024 1_03_56 AM](https://github.com/user-attachments/assets/3725a097-19bd-4ae6-a5b1-d8050c7f0ab2)
+![Android Emulator - Phone_5554 05_08_2024 1_04_03 AM](https://github.com/user-attachments/assets/37275900-e934-41a9-9312-5fd0494de804)
+
+
 
 <div>
   <h3>Home page displays all movies and series</h3>
@@ -29,18 +33,18 @@ A new Flutter project.
 
 <div>
   <h3>Search View followed by search result</h3>
-  <img src="github.com/user-attachments/assets/b56f36c4-e261-4c9a-8900-dbc1e98a3a25" alt="search result">
+  <img src="https://github.com/user-attachments/assets/33d32f2e-bda4-49f6-86d8-b854f95b2275" alt="search result">
 </div>
 <br><br>
 
 <div>
   <h3>Hot & new upcomming section</h3>
-  <img src="https://github.com/user-attachments/assets/b02c1200-e361-4e6b-b519-e9b249c726c4" alt="Upcoming Soon ">
+  <img src="https://github.com/user-attachments/assets/3725a097-19bd-4ae6-a5b1-d8050c7f0ab2" alt="Upcoming Soon ">
 </div>
 <br><br>
 
 <div>
   <h3>Hot & new everyone's watching section</h3>
-  <img src="https://github.com/user-attachments/assets/835eb663-4078-41f5-8056-fb6d3063c862" alt="Everyone's Watching ">
+  <img src="https://github.com/user-attachments/assets/37275900-e934-41a9-9312-5fd0494de804" alt="Everyone's Watching ">
 </div>
 <br><br>
