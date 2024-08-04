@@ -14,10 +14,6 @@ A new Flutter project.
     3)Hot and new shows.
   </h3>
 </div>
-![Android Emulator - Phone_5554 05_08_2024 1_03_56 AM](https://github.com/user-attachments/assets/3725a097-19bd-4ae6-a5b1-d8050c7f0ab2)
-![Android Emulator - Phone_5554 05_08_2024 1_04_03 AM](https://github.com/user-attachments/assets/37275900-e934-41a9-9312-5fd0494de804)
-
-
 
 <div>
   <h3>Home page displays all movies and series</h3>
